@@ -28,6 +28,8 @@ The project includes some basic functionality such as:
    npm install
    ```
 3. Run the Project
-`npm start`
+   ```sh
+   npm start
+   ```
 
 
