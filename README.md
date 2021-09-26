@@ -1,6 +1,5 @@
 # Basic Amazon Clone in React
 
-## About The Project
 The project is a basic Amazon Clone from the [Clever Programmer](https://www.youtube.com/c/CleverProgrammer) series on YouTube. A great and enteraining way to get started with ReactJS!
 
 The project includes some basic functionality such as:
