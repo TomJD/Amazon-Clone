@@ -9,7 +9,7 @@ The project includes some basic functionality such as:
 4. Updating Items in Cart
 5. Deleting Items from Cart
 
-## Build With
+## Built With
 * [ReactJS](https://reactjs.org/)
 * [Firebase](https://firebase.google.com/)
 
